@@ -24,7 +24,7 @@ def main():
             messages=[
                 {
                     "role": "user",
-                    "content": "What are the top 5 B2B logistics problems in India?",
+                    "content": "What are the top 10 most painful unsolved problems for B2B businesses in India in 2026 across any industry?",
                 }
             ],
         )

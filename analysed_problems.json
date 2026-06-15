@@ -1,0 +1,72 @@
+[
+  {
+    "problem": "B2B clients struggle with marketing challenges and brand visibility.",
+    "who_has_it": "animation agencies and their B2B clients",
+    "pain_score": 7,
+    "is_opportunity": true,
+    "category": "other"
+  },
+  {
+    "problem": "Mid-sized Indian B2B firms find it hard to justify the cost of good marketing leadership.",
+    "who_has_it": "mid-sized B2B firms in India",
+    "pain_score": 8,
+    "is_opportunity": true,
+    "category": "other"
+  },
+  {
+    "problem": "Startups in India face various operational challenges despite growth.",
+    "who_has_it": "Indian startups",
+    "pain_score": 6,
+    "is_opportunity": true,
+    "category": "other"
+  },
+  {
+    "problem": "Businesses face challenges in procurement related to cost and supplier reliability.",
+    "who_has_it": "importers and businesses in India",
+    "pain_score": 9,
+    "is_opportunity": true,
+    "category": "procurement"
+  },
+  {
+    "problem": "Indian B2B sector's long-standing brand issues hinder competitive differentiation.",
+    "who_has_it": "B2B businesses in India",
+    "pain_score": 8,
+    "is_opportunity": true,
+    "category": "other"
+  },
+  {
+    "problem": "Skilled labor shortages are affecting event execution quality and operational efficiency in the B2B events market.",
+    "who_has_it": "B2B event organizers",
+    "pain_score": 8,
+    "is_opportunity": true,
+    "category": "workforce"
+  },
+  {
+    "problem": "Small and medium-sized businesses are facing rising costs and unpredictable growth.",
+    "who_has_it": "Small and medium-sized businesses (SMBs)",
+    "pain_score": 7,
+    "is_opportunity": true,
+    "category": "other"
+  },
+  {
+    "problem": "Lack of accountability and productivity is a major issue for small to medium-sized businesses.",
+    "who_has_it": "Small and medium-sized businesses (SMBs)",
+    "pain_score": 6,
+    "is_opportunity": true,
+    "category": "workforce"
+  },
+  {
+    "problem": "IT issues within Microsoft 365 are hindering productivity for many small businesses.",
+    "who_has_it": "Small businesses",
+    "pain_score": 7,
+    "is_opportunity": true,
+    "category": "technology"
+  },
+  {
+    "problem": "Manual reporting and analytics processes are slowing down business operations.",
+    "who_has_it": "Various businesses",
+    "pain_score": 8,
+    "is_opportunity": true,
+    "category": "technology"
+  }
+]
