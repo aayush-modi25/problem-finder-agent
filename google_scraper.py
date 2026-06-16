@@ -8,13 +8,13 @@ from dotenv import load_dotenv
 SEARCHAPI_URL = "https://www.searchapi.io/api/v1/search"
 
 QUERIES = [
-    "B2B India business problems site:reddit.com",
-    "India startup founder problems frustrated",
-    "Indian SME operational challenges",
-    "B2B India payment delays problems",
-    "India manufacturing procurement issues",
-    "Indian business compliance headaches",
-    "B2B India vendor management problems",
+    "site:reddit.com India B2B founder problems",
+    "site:reddit.com Indian startup operational nightmare",
+    "site:quora.com what problems do Indian businesses face",
+    "India business owner frustrated reddit",
+    "B2B India problem nobody has solved reddit",
+    "Indian founder what I wish existed",
+    "site:reddit.com India SME supplier payment problem",
 ]
 
 PAIN_KEYWORDS = [
